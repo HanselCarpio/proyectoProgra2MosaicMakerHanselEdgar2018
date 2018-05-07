@@ -1,1 +1,1 @@
-# proyectoProgra2MosaicMakerHanselEdgar2018
+# MosaicMaker
